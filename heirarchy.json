@@ -79,8 +79,16 @@
     "LPPR": ["LPPR_DEL", "LPPR_GND", "LPPR_TWR", "LPPR_APP", "LPPC_CTR"],
     "LPPT": ["LPPT_DEL", "LPPT_GND", "LPPT_TWR", "LPPT_APP", "LPPC_CTR"],
     "LYBE": ["LYBE_DEL", "LYBE_GND", "LYBE_TWR", "LYBE_APP", "ADR_CTR"],
+    "LZDB": ["LZDB_I_TWR", "LZBB_CTR"],
     "LZIB": ["LZIB_GND", "LZIB_TWR", "LZIB_APP", "LZBB_CTR"],
     "LZKZ": ["LZKZ_TWR", "LZKZ_APP", "LZBB_CTR"],
+    "LZNI": ["LZNI_I_TWR", "LZBB_CTR"],
+    "LZPE": ["LZPE_I_TWR", "LZBB_CTR"],
+    "LZPP": ["LZPP_TWR", "LZBB_CTR"],
+    "LZSL": ["LZSL_APP", "LZBB_CTR"],
+    "LZSV": ["LZSV_I_TWR", "LZBB_CTR"],
+    "LZTT": ["LZTT_TWR", "LZBB_CTR"],
+    "LZZI": ["LZZI_TWR", "LZBB_CTR"],
     "UMMS": ["UMMS_GND", "UMMS_TWR", "UMMS_APP", "UMMV_CTR"],
     "OOMS": ["OOMS_GND", "OOMS_TWR", "OOMS_APP", "OOMM_CTR"],
     "OOSA": ["OOSA_GND", "OOSA_TWR", "OOSA_APP", "OOMM_CTR"],
@@ -124,5 +132,6 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
