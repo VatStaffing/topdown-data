@@ -6,7 +6,8 @@
     "EBKT": ["EBKT_I_TWR", "EBBU_W_CTR"],
     "EBLG": ["EBLG_GND", "EBLG_TWR", "EBLG_APP", "EBBU_CTR"],
     "EBOS": ["EBOS_GND", "EBOS_TWR", "EBOS_APP", "EBBU_CTR"],
-    "EDDC": ["EDDC_GND", "EDDC_TWR", "EDDC_APP", "EDDP_APP", "EDMM_CTR"],
+    "EDDC": ["EDDC_GND", "EDDC_TWR", "EDDC_APP", "EDMM_CTR"],
+    "EDDF": ["EDDF_DEL", "EDDF_GND", "EDDF_TWR", "EDDF_APP", "EDGG_CTR"],
     "EDDH": ["EDDH_DEL", "EDDH_GND", "EDDH_TWR", "EDDH_APP", "EDWW_CTR"],
     "EDDK": ["EDDK_DEL", "EDDK_GND", "EDDK_TWR", "EDDK_APP", "EDGG_CTR"],
     "EDDP": ["EDDP_DEL", "EDDP_GND", "EDDP_TWR", "EDDP_APP", "EDMM_CTR"],
@@ -35,12 +36,12 @@
     "LFML": ["LFML_DEL", "LFML_GND", "LFML_TWR", "LFML_APP", "LFBB_CTR"],
     "LGAL": ["LGAL_TWR", "LGAL_APP", "LGGG_CTR"],
     "LGAV": ["LGAV_DEL", "LGAV_GND", "LGAV_TWR", "LGAV_APP", "LGGG_CTR"],
-    "LGBL": ["LGBL_TWR", "LGBL_APP", "LGGG_CTR"],
-    "LGHI": ["LGHI_TWR", "LGHI_APP", "LGGG_CTR"],
+    "LGBL": ["LGBL_TWR", "LGBL_APP", "LGMD_CTR", "LGGG_CTR"],
+    "LGHI": ["LGHI_TWR", "LGHI_APP", "LGMD_CTR", "LGGG_CTR"],
     "LGIK": ["LGIK_TWR", "LGGG_CTR"],
     "LGIO": ["LGIO_TWR", "LGIO_APP", "LGGG_CTR"],
     "LGIR": ["LGIR_DEL", "LGIR_GND", "LGIR_TWR", "LGIR_APP", "LGGG_CTR"],
-    "LGKA": ["LGKA_TWR", "LGGG_CTR"],
+    "LGKA": ["LGKA_TWR", "LGMD_CTR", "LGGG_CTR"],
     "LGKC": ["LGKC_TWR", "LGGG_CTR"],
     "LGKF": ["LGKF_TWR", "LGAD_APP", "LGGG_CTR"],
     "LGKJ": ["LGKJ_TWR", "LGGG_CTR"],
@@ -65,7 +66,7 @@
     "LGRP": ["LGRP_GND", "LGRP_TWR", "LGRP_APP", "LGGG_CTR"],
     "LGRX": ["LGRX_TWR", "LGAD_APP", "LGGG_CTR"],
     "LGSA": ["LGSA_GND", "LGSA_APP", "LGGG_CTR"],
-    "LGSK": ["LGSK_TWR", "LGSK_APP", "LGGG_CTR"],
+    "LGSK": ["LGSK_TWR", "LGSK_APP", "LGMD_CTR", "LGGG_CTR"],
     "LGSM": ["LGSM_TWR", "LGSM_APP", "LGGG_CTR"],
     "LGSO": ["LGSO_TWR", "LGGG_CTR"],
     "LGSR": ["LGSR_GND", "LGSR_TWR", "LGSR_APP", "LGGG_CTR"],
@@ -133,6 +134,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
