@@ -21,6 +21,8 @@
     "EGLC": ["EGLC_GND", "EGLC_TWR", "THAMES_APP", "LTC_CTR", "LON_CTR"],
     "EGLL": ["EGLL_DEL", "EGLL_GND", "EGLL_TWR", "EGLL_APP", "LTC_CTR", "LON_CTR"],
     "ELLX": ["ELLX_DEL", "ELLX_TWR", "ELLX_APP", "EBBU_CTR"],
+    "ENGM": ["ENGM_DEL", "ENGM_GND", "ENGM_TWR", "ENGM_APP", "ENOS_CTR", "ENOR_CTR"],
+    "ENTC": ["ENTC_DEL", "ENTC_TWR", "ENTC_APP", "ENBD_CTR", "ENOR_CTR"],
     "EPKM": ["EPKM_R_TWR"],
     "EPKP": ["EPKP_R_TWR"],
     "ESGG": ["ESGG_DEL", "ESGG_GND", "ESGG_TWR", "ESGG_APP", "ESMM_CTR", "ESOS_CTR"],
@@ -135,6 +137,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
