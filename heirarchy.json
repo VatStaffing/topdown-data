@@ -56,7 +56,7 @@
     "LGLR": ["LGLR_TWR", "LGLR_APP", "LGGG_CTR"],
     "LGMK": ["LGMK_TWR", "LGMK_APP", "LGGG_CTR"],
     "LGML": ["LGML_TWR", "LGGG_CTR"],
-    "LGMT": ["LGMT_TWR", "LGMT_APP", "LGGG_CTR"],
+    "LGMT": ["LGMT_TWR", "LGMT_APP", "LGMD_CTR", "LGGG_CTR"],
     "LGNX": ["LGNX_TWR", "LGGG_CTR"],
     "LGPA": ["LGPA_TWR", "LGGG_CTR"],
     "LGPL": ["LGPL_TWR", "LGGG_CTR"],
@@ -69,8 +69,8 @@
     "LGSO": ["LGSO_TWR", "LGGG_CTR"],
     "LGSR": ["LGSR_GND", "LGSR_TWR", "LGSR_APP", "LGGG_CTR"],
     "LGST": ["LGST_TWR", "LGST_APP", "LGGG_CTR"],
-    "LGSY": ["LGSY_TWR", "LGSY_APP", "LGGG_CTR"],
-    "LGTS": ["LGTS_DEL", "LGTS_GND", "LGTS_TWR", "LGTS_APP", "LGGG_CTR"],
+    "LGSY": ["LGSY_TWR", "LGSY_APP", "LGMD_CTR", "LGGG_CTR"],
+    "LGTS": ["LGTS_DEL", "LGTS_GND", "LGTS_TWR", "LGTS_APP", "LGMD_CTR", "LGGG_CTR"],
     "LGZA": ["LGZA_TWR", "LGAD_APP", "LGGG_CTR"],
     "LHBP": ["LHBP_DEL", "LHBP_GND", "LHBP_TWR", "LHBP_APP", "LHCC_CTR"],
     "LKPR": ["LKPR_DEL", "LKPR_GND", "LKPR_TWR", "LKPR_APP", "LKAA_CTR"],
@@ -124,3 +124,4 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
