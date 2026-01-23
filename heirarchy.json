@@ -116,6 +116,7 @@
     "LGTS": ["LGTS_DEL", "LGTS_GND", "LGTS_TWR", "LGTS_APP", "LGMD_CTR", "LGGG_CTR"],
     "LGZA": ["LGZA_TWR", "LGAD_APP", "LGGG_CTR"],
     "LHBP": ["LHBP_DEL", "LHBP_GND", "LHBP_TWR", "LHBP_APP", "LHCC_CTR"],
+    "LHDC": ["LHDC_I_TWR", "LHCC_CTR"],
     "LKPR": ["LKPR_DEL", "LKPR_GND", "LKPR_TWR", "LKPR_APP", "LKAA_CTR"],
     "LOWG": ["LOWG_TWR", "LOWG_APP", "LOVV_CTR"],
     "LOWK": ["LOWK_TWR", "LOWK_APP", "LOVV_CTR"],
@@ -182,6 +183,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
