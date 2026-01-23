@@ -80,6 +80,7 @@
     "LPFR": ["LPFR_GND", "LPFR_TWR", "LPFR_APP", "LPPC_CTR"],
     "LPPR": ["LPPR_DEL", "LPPR_GND", "LPPR_TWR", "LPPR_APP", "LPPC_CTR"],
     "LPPT": ["LPPT_DEL", "LPPT_GND", "LPPT_TWR", "LPPT_APP", "LPPC_CTR"],
+    "LRBS": ["LRBS_GND", "LRBS_TWR", "LROP_APP", "LRBB_CTR"],
     "LYBE": ["LYBE_DEL", "LYBE_GND", "LYBE_TWR", "LYBE_APP", "ADR_CTR"],
     "LZDB": ["LZDB_I_TWR", "LZBB_CTR"],
     "LZIB": ["LZIB_GND", "LZIB_TWR", "LZIB_APP", "LZBB_CTR"],
@@ -134,6 +135,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
