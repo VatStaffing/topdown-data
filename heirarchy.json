@@ -64,6 +64,9 @@
     "ESPA": ["ESPA_TWR", "ESOS_CTR"],
     "ESSA": ["ESSA_DEL", "ESSA_GND", "ESSA_TWR", "ESSA_APP", "ESOS_CTR"],
     "EVRA": ["EVRA_GND", "EVRA_TWR", "EVRA_APP", "EVRR_CTR"],
+    "EYKA": ["EYKA_APP", "EYVL_CTR"],
+    "EYPA": ["EYPA_APP", "EYVL_CTR"],
+    "EYSA": ["EYSA_APP", "EYVL_CTR"],
     "EYVI": ["EYVI_TWR", "EYVI_APP", "EYVL_CTR"],
     "LBBG": ["LBBG_TWR", "LBBG_APP", "LBSR_CTR"],
     "LBGO": ["LBGO_TWR", "LBSR_CTR"],
@@ -183,6 +186,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
