@@ -6,4 +6,5 @@ Contributions are welcome and encouraged. Feel free to submit pull requests, rep
 This repository is provided “as is” and may contain incomplete or experimental data. Always validate files before deploying them in a production environment.
 
 ### Formatting:
-> + Positions are truncated to the format ``ABCD_EFG`` - all central items of data are nullified, **except for** _I_TWR or _R_TWR, which maintain their full titles.
+> + Positions are truncated to the format ``ABC(D)_EFG`` - all central items of data are nullified, **except for** _I_TWR or _R_TWR, which maintain their full titles.
+> + For example, ``EBBR_S_GND`` > ``EBBR_GND``, ``ADR_E_CTR`` > ``ADR_CTR``
