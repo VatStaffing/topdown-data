@@ -33,6 +33,7 @@
     "EGPD": ["EGPD_GND", "EGPD_TWR", "EGPD_APP", "SCO_CTR"],
     "EGPF": ["EGPF_GND", "EGPF_TWR", "EGPF_APP", "SCO_CTR"],
     "EGPH": ["EGPH_DEL", "EGPH_GND", "EGPH_TWR", "EGPH_APP", "SCO_CTR"],
+    "EGTR": ["EGTR_I_TWR", "EGLL_APP", "LTC_CTR", "LON_CTR"],
     "EHAM": ["EHAM_DEL", "EHAM_GND", "EHAM_TWR", "EHAM_APP", "EHAA_CTR"],
     "ELLX": ["ELLX_DEL", "ELLX_TWR", "ELLX_APP", "EBBU_CTR"],
     "ENEV": ["ENEV_GND", "ENEV_TWR", "ENEV_APP", "ENBD_CTR", "ENOR_CTR"],
@@ -269,6 +270,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
