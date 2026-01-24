@@ -72,6 +72,10 @@
     "EYPA": ["EYPA_APP", "EYVL_CTR"],
     "EYSA": ["EYSA_APP", "EYVL_CTR"],
     "EYVI": ["EYVI_TWR", "EYVI_APP", "EYVL_CTR"],
+    "GVAC": ["GVAC_TWR", "GVSC_APP", "GVSC_CTR"],
+    "GVBA": ["GVBA_TWR", "GVSC_APP", "GVSC_CTR"],
+    "GVNP": ["GVNP_TWR", "GVSC_APP", "GVSC_CTR"],
+    "GVSV": ["GVSV_TWR", "GVSC_APP", "GVSC_CTR"],
     "LBBG": ["LBBG_TWR", "LBBG_APP", "LBSR_CTR"],
     "LBGO": ["LBGO_TWR", "LBSR_CTR"],
     "LBPD": ["LBPD_TWR", "LBSR_CTR"],
@@ -190,6 +194,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
