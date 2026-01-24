@@ -3,7 +3,7 @@
     "EBAW": ["EBAW_GND", "EBAW_TWR", "EBBR_APP", "EBBU_CTR"],
     "EBBR": ["EBBR_DEL", "EBBR_GND", "EBBR_TWR", "EBBR_APP", "EBBU_CTR"],
     "EBCI": ["EBCI_GND", "EBCI_TWR", "EBCI_APP", "EBBR_APP", "EBBU_CTR"],
-    "EBKT": ["EBKT_I_TWR", "EBBU_W_CTR"],
+    "EBKT": ["EBKT_I_TWR", "EBBU_CTR"],
     "EBLG": ["EBLG_GND", "EBLG_TWR", "EBLG_APP", "EBBU_CTR"],
     "EBOS": ["EBOS_GND", "EBOS_TWR", "EBOS_APP", "EBBU_CTR"],
     "EDDB": ["EDDB_DEL", "EDDB_GND", "EDDB_TWR", "EDDB_APP", "EDWW_CTR"],
@@ -256,6 +256,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
