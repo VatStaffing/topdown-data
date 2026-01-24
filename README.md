@@ -1,5 +1,3 @@
-![vatstaffing_logo](https://cdn.discordapp.com/attachments/1442102236673998889/1464641928439005291/smalllogo.png?ex=69763597&is=6974e417&hm=709e152efb08992cac9ce7d6dbc7bdee4ccffb27ecdfa7c7171181aee71a1c37)
-
 # VatStaffing Top-Down Data
 Welcome to the GitHub repository for the VatStaffing Discord Bot. This repository contains all the Top-Down Data files required to correctly match sectors to their respective airports. Please note that this project is intended for development and open collaboration purposes.
 
