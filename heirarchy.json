@@ -34,6 +34,7 @@
     "EHAM": ["EHAM_DEL", "EHAM_GND", "EHAM_TWR", "EHAM_APP", "EHAA_CTR"],
     "ELLX": ["ELLX_DEL", "ELLX_TWR", "ELLX_APP", "EBBU_CTR"],
     "ENGM": ["ENGM_DEL", "ENGM_GND", "ENGM_TWR", "ENGM_APP", "ENOS_CTR", "ENOR_CTR"],
+    "ENNA": ["ENNA_TWR", "ENBD_CTR", "ENOR_CTR"],
     "ENNM": ["ENNM_I_TWR", "ENBD_CTR", "ENOR_CTR"],
     "ENTC": ["ENTC_DEL", "ENTC_TWR", "ENTC_APP", "ENBD_CTR", "ENOR_CTR"],
     "EPBA": ["EPBA_R_TWR", "EPKK_APP", "EPWW_CTR"],
@@ -265,6 +266,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
