@@ -7,4 +7,4 @@ This repository is provided “as is” and may contain incomplete or experiment
 
 ### Formatting:
 > + Positions are truncated to the format ``ABC(D)_EFG`` - all central items of data are nullified, **except for** _I_TWR or _R_TWR, which maintain their full titles.
-> + For example, ``EBBR_S_GND`` > ``EBBR_GND``, ``ADR_E_CTR`` > ``ADR_CTR``
+> + For example, ``EBBR_S_GND`` > ``EBBR_GND``, ``ADR_E_CTR`` > ``ADR_CTR``, ``EETU_I_TWR`` > ``EETU_I_TWR``
