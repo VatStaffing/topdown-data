@@ -44,6 +44,7 @@
     "EKCH": ["EKCH_DEL", "EKCH_GND", "EKCH_TWR", "EKCH_APP", "EKDK_CTR"],
     "EKVG": ["EKVG_I_TWR", "BIRD_CTR"],
     "ELLX": ["ELLX_DEL", "ELLX_TWR", "ELLX_APP", "EBBU_CTR"],
+    "ENBR": ["ENBR_DEL", "ENBR_GND", "ENBR_TWR", "ENBR_APP", "ENSV_CTR", "ENOR_CTR"],
     "ENEV": ["ENEV_GND", "ENEV_TWR", "ENEV_APP", "ENBD_CTR", "ENOR_CTR"],
     "ENGM": ["ENGM_DEL", "ENGM_GND", "ENGM_TWR", "ENGM_APP", "ENOS_CTR", "ENOR_CTR"],
     "ENNA": ["ENNA_TWR", "ENBD_CTR", "ENOR_CTR"],
@@ -279,6 +280,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
