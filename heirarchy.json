@@ -33,6 +33,7 @@
     "EETN": ["EETN_TWR", "EETN_APP", "EETT_CTR"],
     "EETU": ["EETU_I_TWR", "EETT_CTR"],
     "EFHK": ["EFHK_DEL", "EFHK_GND", "EFHK_TWR", "EFHK_APP", "EFIN_CTR"],
+    "EFRO": ["EFRO_DEL", "EFRO_TWR", "EFRO_APP", "EFIN_CTR"],
     "EGKK": ["EGKK_DEL", "EGKK_GND", "EGKK_TWR", "EGKK_APP", "LTC_CTR", "LON_CTR"],
     "EGLC": ["EGLC_GND", "EGLC_TWR", "THAMES_APP", "LTC_CTR", "LON_CTR"],
     "EGLL": ["EGLL_DEL", "EGLL_GND", "EGLL_TWR", "EGLL_APP", "LTC_CTR", "LON_CTR"],
@@ -284,6 +285,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
