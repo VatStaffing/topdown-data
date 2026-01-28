@@ -269,7 +269,7 @@
     "OBBI": ["OBBI_DEL", "OBBI_GND", "OBBI_TWR", "OBBI_APP", "OBBB_CTR"],
     "OBBS": ["OBBI_APP", "OBBB_CTR"],
     "OBKH": ["OBBI_APP", "OBBB_CTR"],
-    "ORBI": ["ORBI_DEL", "ORBI_GND", "ORBI_TWR", "ORBI_APP", "ORBB_CTR"],
+    "ORBI": ["ORBI_GND", "ORBI_TWR", "ORBI_APP", "ORBB_CTR"],
     "ORER": ["ORER_TWR", "ORKK_APP", "ORBB_CTR"],
     "ORSU": ["ORSU_TWR", "ORKK_APP", "ORBB_CTR"],
     "ORNI": ["ORNI_GND", "ORNI_TWR", "ORNI_APP", "ORMM_APP", "ORBB_CTR"],
@@ -285,6 +285,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
