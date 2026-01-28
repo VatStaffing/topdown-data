@@ -178,6 +178,7 @@
     "LIMJ": ["LIMJ_TWR", "LIMJ_APP", "LIMM_CTR"],
     "LIML": ["LIML_DEL", "LIML_GND", "LIML_TWR", "LIMM_APP", "LIMM_CTR"],
     "LIMM": ["LIMC_DEL", "LIMC_GND", "LIMC_TWR", "LIMM_APP", "LIMM_CTR"],
+    "LIPB": ["LIPB_I_TWR", "LIPP_CTR"],
     "LIPE": ["LIPE_GND", "LIPE_TWR", "LIPE_APP", "LIPP_CTR"],
     "LIPZ": ["LIPZ_DEL", "LIPZ_GND", "LIPZ_TWR", "LIPZ_APP", "LIPP_CTR"],
     "LIRA": ["LIRA_GND", "LIRA_TWR", "LIRR_APP", "LIRR_CTR"],
@@ -285,6 +286,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
