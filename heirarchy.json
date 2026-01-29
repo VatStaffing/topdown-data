@@ -27,6 +27,7 @@
     "EDSB": ["EDSB_GND", "EDSB_TWR", "EDDS_APP", "EDGG_CTR"],
     "EDTD": ["EDTD_I_TWR", "LSZH_APP", "LSAZ_CTR", "LSAS_CTR"],
     "EDTM": ["EDTM_I_TWR", "LSAZ_CTR", "LSAS_CTR"],
+    "EDWE": ["EDWE_I_TWR", "EDWW_CTR"],
     "EEKA": ["EEKA_I_TWR", "EETT_CTR"],
     "EEKE": ["EEKE_I_TWR", "EETT_CTR"],
     "EEPU": ["EEPU_I_TWR", "EETT_CTR"],
@@ -295,6 +296,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
