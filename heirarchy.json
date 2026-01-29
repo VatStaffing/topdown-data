@@ -196,6 +196,7 @@
     "LOWL": ["LOWL_TWR", "LOWL_APP", "LOVV_CTR"],
     "LOWS": ["LOWS_DEL", "LOWS_TWR", "LOWS_APP", "LOVV_CTR"],
     "LOWW": ["LOWW_DEL", "LOWW_GND", "LOWW_TWR", "LOWW_APP", "LOVV_CTR"],
+    "LPEV": ["LPEV_I_TWR", "LPPC_CTR"],
     "LPFR": ["LPFR_GND", "LPFR_TWR", "LPFR_APP", "LPPC_CTR"],
     "LPPR": ["LPPR_DEL", "LPPR_GND", "LPPR_TWR", "LPPR_APP", "LPPC_CTR"],
     "LPPT": ["LPPT_DEL", "LPPT_GND", "LPPT_TWR", "LPPT_APP", "LPPC_CTR"],
@@ -287,6 +288,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
