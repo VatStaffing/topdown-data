@@ -47,8 +47,11 @@
     "EHEH": ["EHEH_GND", "EHEH_TWR", "EHEH_APP", "EHAA_CTR"],
     "EHRD": ["EHRD_DEL", "EHRD_TWR", "EHRD_APP", "EHAM_APP", "EHAA_CTR"],
     "EINN": ["EINN_GND", "EINN_TWR", "EINN_APP", "EISN_CTR"],
+    "EKAH": ["EKAH_TWR", "EKAH_APP", "EKDK_CTR"],
+    "EKBI": ["EKBI_TWR", "EKBI_APP", "EKDK_CTR"],
     "EKCH": ["EKCH_DEL", "EKCH_GND", "EKCH_TWR", "EKCH_APP", "EKDK_CTR"],
     "EKVG": ["EKVG_I_TWR", "BIRD_CTR"],
+    "EKYT": ["EKYT_TWR", "EKYT_APP", "EKDK_CTR"],
     "ELLX": ["ELLX_DEL", "ELLX_TWR", "ELLX_APP", "EBBU_CTR"],
     "ENBR": ["ENBR_DEL", "ENBR_GND", "ENBR_TWR", "ENBR_APP", "ENSV_CTR", "ENOR_CTR"],
     "ENEV": ["ENEV_GND", "ENEV_TWR", "ENEV_APP", "ENBD_CTR", "ENOR_CTR"],
@@ -290,6 +293,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
