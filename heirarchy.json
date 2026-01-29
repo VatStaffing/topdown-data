@@ -46,6 +46,7 @@
     "EHAM": ["EHAM_DEL", "EHAM_GND", "EHAM_TWR", "EHAM_APP", "EHAA_CTR"],
     "EHEH": ["EHEH_GND", "EHEH_TWR", "EHEH_APP", "EHAA_CTR"],
     "EHRD": ["EHRD_DEL", "EHRD_TWR", "EHRD_APP", "EHAM_APP", "EHAA_CTR"],
+    "EIDW": ["EIDW_DEL", "EIDW_GND", "EIDW_TWR", "EIDW_APP", "EIDW_CTR", "EISN_CTR"],
     "EINN": ["EINN_GND", "EINN_TWR", "EINN_APP", "EISN_CTR"],
     "EKAH": ["EKAH_TWR", "EKAH_APP", "EKDK_CTR"],
     "EKBI": ["EKBI_TWR", "EKBI_APP", "EKDK_CTR"],
@@ -294,6 +295,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
