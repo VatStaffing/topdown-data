@@ -95,6 +95,7 @@
     "EPZP": ["EPZP_R_TWR", "EPWW_CTR"],
     "EPZR": ["EPZR_R_TWR", "EPKK_APP", "EPWW_CTR"],
     "ESGG": ["ESGG_DEL", "ESGG_GND", "ESGG_TWR", "ESGG_APP", "ESMM_CTR", "ESOS_CTR"],
+    "ESIB": ["ESIB_TWR", "ESGG_APP", "ESMM_CTR", "ESOS_CTR"],
     "ESKN": ["ESKN_TWR", "ESOS_CTR"],
     "ESKS": ["ESKS_TWR", "ESOS_CTR"],
     "ESMQ": ["ESMQ_TWR", "ESOS_CTR"],
@@ -293,6 +294,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
