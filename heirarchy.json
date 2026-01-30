@@ -208,7 +208,7 @@
     "LPFR": ["LPFR_GND", "LPFR_TWR", "LPFR_APP", "LPPC_CTR"],
     "LPPR": ["LPPR_DEL", "LPPR_GND", "LPPR_TWR", "LPPR_APP", "LPPC_CTR"],
     "LPPT": ["LPPT_DEL", "LPPT_GND", "LPPT_TWR", "LPPT_APP", "LPPC_CTR"],
-    "LQSA": ["LQSA_GND", "LQSA_TWR", "LQSA_APP", "LQSB_CTR", "ADR_CTR"],
+    "LQSA": ["LQSA_GND", "LQSA_TWR", "LQSA_APP", "LQSB_CTR", "ADR_W_CTR", "ADR_CTR"],
     "LRBS": ["LRBS_GND", "LRBS_TWR", "LROP_APP", "LRBB_CTR"],
     "LROP": ["LROP_DEL", "LROP_GND", "LROP_TWR", "LROP_APP", "LRBB_CTR"],
     "LSGB": ["LSGB_I_TWR", "LSAG_CTR", "LSAS_CTR"],
@@ -242,7 +242,7 @@
     "LSZW": ["LSZW_I_TWR", "LSAZ_CTR", "LSAS_CTR"],
     "LTFM": ["LTFM_DEL", "LTFM_GND", "LTFM_TWR", "LTFM_APP", "IST_APP", "ANK_W_CTR", "ANK_CTR"],
     "LXGB": ["LXGB_TWR", "LXGB_APP"],
-    "LYBE": ["LYBE_DEL", "LYBE_GND", "LYBE_TWR", "LYBE_APP", "ADR_CTR"],
+    "LYBE": ["LYBE_DEL", "LYBE_GND", "LYBE_TWR", "LYBE_APP", "ADR_E_CTR", "ADR_CTR"],
     "LZDB": ["LZDB_I_TWR", "LZBB_CTR"],
     "LZIB": ["LZIB_GND", "LZIB_TWR", "LZIB_APP", "LZBB_CTR"],
     "LZKZ": ["LZKZ_TWR", "LZKZ_APP", "LZBB_CTR"],
@@ -296,6 +296,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
