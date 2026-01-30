@@ -16,12 +16,13 @@
   ]
   "LPPC_CTR": [
     "LPPC_C_CTR",
-    "LPPC_E_CTR"],
+    "LPPC_E_CTR",
     "LPPC_N_CTR",
     "LPPC_O_CTR",
-    "LPPC_S_CTR",
+    "LPPC_S_CTR"
   ]
 }
+
 
 
 
