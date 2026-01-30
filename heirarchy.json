@@ -198,6 +198,7 @@
     "LIRP": ["LIRP_GND", "LIRP_TWR", "LIRP_APP", "LIRR_CTR"],
     "LIRQ": ["LIRQ_TWR", "LIRQ_APP", "LIRR_CTR"],
     "LIRU": ["LIRU_GND", "LIRU_TWR", "LIRR_APP", "LIRR_CTR"],
+    "LJLJ": ["LJLJ_GND", "LJLJ_TWR", "LJLJ_APP", "LJLA_CTR", "ADR_W_CTR", "ADR_CTR"],
     "LKPR": ["LKPR_DEL", "LKPR_GND", "LKPR_TWR", "LKPR_APP", "LKAA_CTR"],
     "LMML": ["LMML_GND", "LMML_TWR", "LMML_APP", "LMMM_CTR"],
     "LOWG": ["LOWG_TWR", "LOWG_APP", "LOVV_CTR"],
@@ -298,6 +299,7 @@
     "OJAQ": ["OJAQ_TWR", "OJAQ_APP", "OJAC_CTR"]
 
 }
+
 
 
 
