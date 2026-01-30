@@ -1,4 +1,8 @@
 {
+  "ADR_CTR": [
+    "ADR_W_CTR",
+    "ADR_E_CTR"
+  ],
   "ANK_CTR": [
     "ANK_W_CTR",
     "ANK_E_CTR"
@@ -11,3 +15,4 @@
     "OMAE_S_CTR"
   ]
 }
+
