@@ -7,12 +7,19 @@
     "ANK_W_CTR",
     "ANK_E_CTR"
   ],
-  "OMAE_1_CTR": [
+  "OMAE_CTR": [
     "OMAE_2_CTR",
     "OMAE_3_CTR",
     "OMAE_4_CTR",
     "OMAE_5_CTR",
     "OMAE_S_CTR"
   ]
+  "LPPC_CTR": [
+    "LPPC_C_CTR",
+    "LPPC_N_CTR",
+    "LPPC_O_CTR",
+    "LPPC_S_CTR",
+  ]
 }
+
 
