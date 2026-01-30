@@ -2,5 +2,12 @@
   "ANK_CTR": [
     "ANK_W_CTR",
     "ANK_E_CTR"
+  ],
+  "OMAE_1_CTR": [
+    "OMAE_2_CTR",
+    "OMAE_3_CTR",
+    "OMAE_4_CTR",
+    "OMAE_5_CTR",
+    "OMAE_S_CTR"
   ]
 }
